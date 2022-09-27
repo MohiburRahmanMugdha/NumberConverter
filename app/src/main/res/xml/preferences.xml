@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <Preference android:title="Share"
+        android:summary="Share this app with your friends"
+        android:icon="@drawable/ic_share"
+        android:key="shareApp" />
+
+    <Preference android:title="Privacy"
+        android:summary="Read our privacy policy"
+        android:icon="@drawable/ic_privacy"
+        android:key="openPrivacy" />
+
+</PreferenceScreen>
